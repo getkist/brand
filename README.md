@@ -11,7 +11,7 @@ Official brand assets for the kist project.
 ### Logo Files
 
 | File | Format | Usage |
-|------|--------|-------|
+| ------ | -------- | ------- |
 | [kist.png](src/logo/kist.png) | PNG | General use, documentation |
 
 ## Colors
@@ -19,7 +19,7 @@ Official brand assets for the kist project.
 ### Primary Palette
 
 | Color | Hex | RGB | Usage |
-|-------|-----|-----|-------|
+| ------- | ----- | ----- | ------- |
 | Kist Brown | `#5e4d34` | `94, 77, 52` | Primary brand color |
 | Kist Cream | `#f5f2ed` | `245, 242, 237` | Background, light surfaces |
 | Kist Dark | `#2c2416` | `44, 36, 22` | Dark mode, text |
@@ -27,7 +27,7 @@ Official brand assets for the kist project.
 ### Accent Colors
 
 | Color | Hex | Usage |
-|-------|-----|-------|
+| ------- | ----- | ------- |
 | Success | `#4caf50` | Success states |
 | Warning | `#ff9800` | Warning states |
 | Error | `#f44336` | Error states |
@@ -68,6 +68,7 @@ All brand assets are available in the [src/](src/) directory.
 ## License
 
 The kist logo and brand assets are © Scape Agency. Usage is permitted for:
+
 - Documentation referencing kist
 - Blog posts and articles about kist
 - Integration showcases
