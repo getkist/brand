@@ -67,16 +67,16 @@ All brand assets are available in the [src/](src/) directory.
 
 ## License
 
-The kist logo and brand assets are © Scape Agency. Usage is permitted for:
+The kist logo and brand assets are © Scape Press. Usage is permitted for:
 
 - Documentation referencing kist
 - Blog posts and articles about kist
 - Integration showcases
 
-For other uses, please contact [info@scape.agency](mailto:info@scape.agency).
+For other uses, please contact [info@scape.press](mailto:info@scape.press).
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by <a href="https://www.scape.agency" target="_blank">Scape Agency</a></b>
+  <b>Made with ❤️ by <a href="https://www.scape.press" target="_blank">Scape Press</a></b>
 </p>
